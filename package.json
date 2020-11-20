@@ -1,0 +1,24 @@
+{
+  "name": "api-node-example",
+  "version": "1.0.0",
+  "description": "Example of API created in Node.js and consuming data from an SQLite database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeriomattos/api-node-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeriomattos/api-node-example/issues"
+  },
+  "homepage": "https://github.com/rogeriomattos/api-node-example#readme",
+  "dependencies": {
+    "knex": "^0.21.12",
+    "sqlite3": "^5.0.0"
+  }
+}
